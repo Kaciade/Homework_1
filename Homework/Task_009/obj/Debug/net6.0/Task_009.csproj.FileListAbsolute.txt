@@ -1,0 +1,15 @@
+C:\Users\Валера\Desktop\Учёба\GeekBrains Jun\Знакомство с языками программирования\ДЗ 1\Homework\Task_009\bin\Debug\net6.0\Task_009.exe
+C:\Users\Валера\Desktop\Учёба\GeekBrains Jun\Знакомство с языками программирования\ДЗ 1\Homework\Task_009\bin\Debug\net6.0\Task_009.deps.json
+C:\Users\Валера\Desktop\Учёба\GeekBrains Jun\Знакомство с языками программирования\ДЗ 1\Homework\Task_009\bin\Debug\net6.0\Task_009.runtimeconfig.json
+C:\Users\Валера\Desktop\Учёба\GeekBrains Jun\Знакомство с языками программирования\ДЗ 1\Homework\Task_009\bin\Debug\net6.0\Task_009.dll
+C:\Users\Валера\Desktop\Учёба\GeekBrains Jun\Знакомство с языками программирования\ДЗ 1\Homework\Task_009\bin\Debug\net6.0\Task_009.pdb
+C:\Users\Валера\Desktop\Учёба\GeekBrains Jun\Знакомство с языками программирования\ДЗ 1\Homework\Task_009\obj\Debug\net6.0\Task_009.csproj.AssemblyReference.cache
+C:\Users\Валера\Desktop\Учёба\GeekBrains Jun\Знакомство с языками программирования\ДЗ 1\Homework\Task_009\obj\Debug\net6.0\Task_009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Валера\Desktop\Учёба\GeekBrains Jun\Знакомство с языками программирования\ДЗ 1\Homework\Task_009\obj\Debug\net6.0\Task_009.AssemblyInfoInputs.cache
+C:\Users\Валера\Desktop\Учёба\GeekBrains Jun\Знакомство с языками программирования\ДЗ 1\Homework\Task_009\obj\Debug\net6.0\Task_009.AssemblyInfo.cs
+C:\Users\Валера\Desktop\Учёба\GeekBrains Jun\Знакомство с языками программирования\ДЗ 1\Homework\Task_009\obj\Debug\net6.0\Task_009.csproj.CoreCompileInputs.cache
+C:\Users\Валера\Desktop\Учёба\GeekBrains Jun\Знакомство с языками программирования\ДЗ 1\Homework\Task_009\obj\Debug\net6.0\Task_009.dll
+C:\Users\Валера\Desktop\Учёба\GeekBrains Jun\Знакомство с языками программирования\ДЗ 1\Homework\Task_009\obj\Debug\net6.0\refint\Task_009.dll
+C:\Users\Валера\Desktop\Учёба\GeekBrains Jun\Знакомство с языками программирования\ДЗ 1\Homework\Task_009\obj\Debug\net6.0\Task_009.pdb
+C:\Users\Валера\Desktop\Учёба\GeekBrains Jun\Знакомство с языками программирования\ДЗ 1\Homework\Task_009\obj\Debug\net6.0\Task_009.genruntimeconfig.cache
+C:\Users\Валера\Desktop\Учёба\GeekBrains Jun\Знакомство с языками программирования\ДЗ 1\Homework\Task_009\obj\Debug\net6.0\ref\Task_009.dll
