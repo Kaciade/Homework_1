@@ -11,6 +11,4 @@ int NumberWithoutSecDig()
 
 NumberWithoutSecDig();
 
-System.Console.WriteLine();
-System.Console.WriteLine($"Если из числа {A} удалить вторую цифру, получится число {B}");
-System.Console.WriteLine();
+Console.WriteLine($"Если из числа {A} удалить вторую цифру, получится число {B}");
